@@ -1,9 +1,8 @@
 .. _chapter-overview:
 
-Title
-=====
-
 Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
+==========================================================================================
+
 
 Abstract
 --------
