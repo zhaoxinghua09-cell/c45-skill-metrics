@@ -42,7 +42,7 @@ History
    * - 0.4
      - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
      -      
-- TIDA
+     - TIDA
     
     
      - WG0 (Use Cases and Terminology)
@@ -59,7 +59,7 @@ Authors
       - Contact
     * - Steven Zhao
       - Independent expert (individual participant), ORCID 0009-0001-0512-1237
-      - zhaoxinghua06@126.com
+      - zhaoxinghua07@126.com
 
 Keywords
 --------
