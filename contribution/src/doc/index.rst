@@ -8,7 +8,7 @@ Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed 
 Abstract
 --------
 
-A metric is useful only where it discriminates. This contribution reports a six-dimension score applied to twelve agent skills on a fixed date, and draws one conclusion from the result: on this population three of the six dimensions returned the same value for every item - two at the maximum, one at a ceiling the sample imposed - so none of the three measured a difference, and the ranking was carried by the remaining three. It proposes that any metric offered to the group be accompanied by its distribution rather than by its mean.
+A metric is useful only where it discriminates. This contribution reports a six-dimension score applied to twelve agent skills on a fixed date, and draws one conclusion from the result: on this population two of the six dimensions returned the same value for every item, so they measured nothing, and the ranking was carried by the remaining three. It proposes that any metric offered to the group be accompanied by its distribution rather than by its mean.
 
 History
 -------
@@ -19,14 +19,26 @@ History
 
     * - Version
       - Document
-      - Date
+      - Approval
       - Focus Group
       - Working Group
-    * - 0.1.0
+    * - 0.1
       - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score ...
-      - 2026-11-10
+      -  
       - TIDA
       - WG0 (Use Cases and Terminology)
+
+   * - 0.2
+     - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
+     -
+     - TIDA
+     - WG0 (Use Cases and Terminology)
+
+   * - 0.3
+     - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
+     -
+     - TIDA
+     - WG0 (Use Cases and Terminology)
 
 Authors
 -------
@@ -62,17 +74,25 @@ This note is one of a set. FG-TIDA-WG1-006 reports the static audit of
 the same twelve skills, and FG-TIDA-WG2-006 states the two-axis standard
 that a metric's own reporting has to meet.
 
-DataTracker record: FG-TIDA-WG0-004..
+DataTracker record: FG-TIDA-WG0-004, State: Submitted.
+
+Note
+----
+
+This document is a contribution submitted for consideration at the first FG-TIDA meeting. It is not an approved text.
 
 .. toctree::
     :maxdepth: 3
     :numbered:
     :hidden:
+   :caption: Contents
 
-    chapters/01_summary
+   chapters/00_scope    
+
+chapters/01_summary
     chapters/02_what_4_5_asks_and_what_this_note_answers
     chapters/03_the_six_dimensions
-    chapters/04_result_on_the_fixed_sample
+       chapters/04_result_on_the_fixed_sample
     chapters/05_what_follows_for_4_5
     chapters/06_mapping_to_the_terms_of_reference
     chapters/07_request_to_the_focus_group
