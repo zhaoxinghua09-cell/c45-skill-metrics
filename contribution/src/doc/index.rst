@@ -23,32 +23,38 @@ History
       - Working Group
     * - 0.1
       - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score ...
-      -    
+     -  
       - TIDA
       - WG0 (Use Cases and Terminology)
 
    * - 0.2
      - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
-     -  
+     -  
      - TIDA
      - WG0 (Use Cases and Terminology)
 
    * - 0.3
      - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample 
-     - 
+     -  
      - TIDA
      - WG0 (Use Cases and Terminology)
 
    * - 0.4
      - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
-     -       
+     -  
      - TIDA
     
     
      - WG0 (Use Cases and Terminology)
    * - 0.5
      -  Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
-     - 
+     -  
+     - TIDA
+     - WG0 (Use Cases and Terminology)
+
+   * - 0.6
+     - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
+     -  
      - TIDA
      - WG0 (Use Cases and Terminology)
 
