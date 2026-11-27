@@ -32,6 +32,19 @@ returned the same value for every item in this sample, which is a statement abou
 sample and the dimensions as worded - not a claim that those dimensions are useless in
 general.
 
+## Run the score
+
+One command, offline, no dependencies, deterministic, under one second:
+
+```bash
+python demo/score_demo.py              # three-item fixture
+python demo/score_demo.py <directory>  # your own skill tree
+```
+
+It prints the per-item table, the per-dimension mean and range, the aggregate distribution, and
+names any dimension that is constant over the sample. The fixture is three items, not the twelve of
+2026-11-17, so it does not claim to reproduce the mean of 69.3; what it reproduces is the rule set.
+
 ## Contact
 
 Xinghua Zhao (Steven Zhao), independent researcher, ORCID iD 0009-0001-0512-1237,
