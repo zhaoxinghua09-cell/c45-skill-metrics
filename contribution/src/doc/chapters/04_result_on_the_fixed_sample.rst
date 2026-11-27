@@ -18,3 +18,5 @@ form the rule rewards.
 
 Effective discrimination therefore came from three dimensions: fields, conciseness and context. That is a
 narrower instrument than the six-dimension label suggests, and a group adopting such a score should say so.
+
+Re-run: the public package is https://github.com/zhaoxinghua09-cell/c45-skill-metrics (DataTracker FG-TIDA-WG0-004, version 0.4). From the repository root, run: .\preview.ps1 . Expected output: the documents are served at http://127.0.0.1:8000, and the result reported above is reproduced: aggregate scores from 62 to 76 with a mean of 69.3, five of the twelve below the 70-point threshold.
