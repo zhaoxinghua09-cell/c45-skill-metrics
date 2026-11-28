@@ -1,8 +1,8 @@
 .. _chapter-overview:
 
+
 Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
 ==========================================================================================
-
 
 Abstract
 --------
@@ -12,66 +12,79 @@ A metric is useful only where it discriminates. This contribution reports a six-
 History
 -------
 
-.. list-table::
-    :header-rows: 1
-    :widths: 12 34 14 12 22
-
-    * - Version
-      - Document
-      - Approval
-      - Focus Group
-      - Working Group
-    * - 0.1
-      - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score ...
-     -  
-      - TIDA
-      - WG0 (Use Cases and Terminology)
-
-   * - 0.2
-     - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
-     -  
-     - TIDA
-     - WG0 (Use Cases and Terminology)
-
-   * - 0.3
-     - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample 
-     -  
-     - TIDA
-     - WG0 (Use Cases and Terminology)
-
-   * - 0.4
-     - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
-     -  
-     - TIDA
-    
-    
-     - WG0 (Use Cases and Terminology)
-   * - 0.5
-     -  Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
-     -  
-     - TIDA
-     - WG0 (Use Cases and Terminology)
-
-   * - 0.6
-     - Metrics for an Agent Skill Ecosystem: A Six-Dimension Score Measured on a Fixed Sample
-     -  
-     - TIDA
-     - WG0 (Use Cases and Terminology)
-
++------------+-----------------+------------+-----------------+-------------------+
+| Version    | Document        | Approval   | Focus Group     | Working Group     |
++============+=================+============+=================+===================+
+| 0.7        | Metrics for an  | -          | TIDA            | WG0 (Use Cases    |
+|            | Agent Skill     |            |                 | and Terminology)  |
+|            | Ecosystem: A    |            |                 |                   |
+|            | Six-Dimension   |            |                 |                   |
+|            | Score Measured  |            |                 |                   |
+|            | on a Fixed      |            |                 |                   |
+|            | Sample          |            |                 |                   |
++------------+-----------------+------------+-----------------+-------------------+
+| 0.6        | Metrics for an  | -          | TIDA            | WG0 (Use Cases    |
+|            | Agent Skill     |            |                 | and Terminology)  |
+|            | Ecosystem: A    |            |                 |                   |
+|            | Six-Dimension   |            |                 |                   |
+|            | Score Measured  |            |                 |                   |
+|            | on a Fixed      |            |                 |                   |
+|            | Sample          |            |                 |                   |
++------------+-----------------+------------+-----------------+-------------------+
+| 0.5        | Metrics for an  | -          | TIDA            | WG0 (Use Cases    |
+|            | Agent Skill     |            |                 | and Terminology)  |
+|            | Ecosystem: A    |            |                 |                   |
+|            | Six-Dimension   |            |                 |                   |
+|            | Score Measured  |            |                 |                   |
+|            | on a Fixed      |            |                 |                   |
+|            | Sample          |            |                 |                   |
++------------+-----------------+------------+-----------------+-------------------+
+| 0.4        | Metrics for an  | -          | TIDA            | WG0 (Use Cases    |
+|            | Agent Skill     |            |                 | and Terminology)  |
+|            | Ecosystem: A    |            |                 |                   |
+|            | Six-Dimension   |            |                 |                   |
+|            | Score Measured  |            |                 |                   |
+|            | on a Fixed      |            |                 |                   |
+|            | Sample          |            |                 |                   |
++------------+-----------------+------------+-----------------+-------------------+
+| 0.3        | Metrics for an  | -          | TIDA            | WG0 (Use Cases    |
+|            | Agent Skill     |            |                 | and Terminology)  |
+|            | Ecosystem: A    |            |                 |                   |
+|            | Six-Dimension   |            |                 |                   |
+|            | Score Measured  |            |                 |                   |
+|            | on a Fixed      |            |                 |                   |
+|            | Sample          |            |                 |                   |
++------------+-----------------+------------+-----------------+-------------------+
+| 0.2        | Metrics for an  | -          | TIDA            | WG0 (Use Cases    |
+|            | Agent Skill     |            |                 | and Terminology)  |
+|            | Ecosystem: A    |            |                 |                   |
+|            | Six-Dimension   |            |                 |                   |
+|            | Score Measured  |            |                 |                   |
+|            | on a Fixed      |            |                 |                   |
+|            | Sample          |            |                 |                   |
++------------+-----------------+------------+-----------------+-------------------+
+| 0.1        | Metrics for an  | -          | TIDA            | WG0 (Use Cases    |
+|            | Agent Skill     |            |                 | and Terminology)  |
+|            | Ecosystem: A    |            |                 |                   |
+|            | Six-Dimension   |            |                 |                   |
+|            | Score Measured  |            |                 |                   |
+|            | on a Fixed      |            |                 |                   |
+|            | Sample          |            |                 |                   |
++------------+-----------------+------------+-----------------+-------------------+
 
 Authors
 -------
 
 .. list-table::
-    :header-rows: 1
-    :widths: 30 40 30
+   :header-rows: 1
+   :widths: 30 40 30
 
-    * - Name
-      - Affiliation
-      - Contact
-    * - Steven Zhao
-      - Independent expert (individual participant), ORCID 0009-0001-0512-1237
-      - zhaoxinghua07@126.com
+   * - Name
+     - Affiliation
+     - Contact
+   * - Steven Zhao
+     - Independent expert (individual participant), ORCID 0009-0001-0512-1237
+     - zhaoxinghua07@126.com
 
 Keywords
 --------
@@ -93,25 +106,27 @@ This note is one of a set. FG-TIDA-WG1-006 reports the static audit of
 the same twelve skills, and FG-TIDA-WG2-006 states the two-axis standard
 that a metric's own reporting has to meet.
 
-DataTracker record: FG-TIDA-WG0-004, State: Submitted.
+DataTracker record: FG-TIDA-WG0-004, Version 0.7, State Submitted.
 
 Note
 ----
 
 This document is a contribution submitted for consideration at the first FG-TIDA meeting. It is not an approved text.
 
-.. toctree::
-    :maxdepth: 3
-    :numbered:
-    :hidden:
-    :caption: Contents
+Contents
+--------
 
-   chapters/00_scope   
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+   :hidden:
+
+   chapters/00_scope
    chapters/01_summary
-    chapters/02_what_4_5_asks_and_what_this_note_answers
-    chapters/03_the_six_dimensions
-       chapters/04_result_on_the_fixed_sample
-    chapters/05_what_follows_for_4_5
-    chapters/06_mapping_to_the_terms_of_reference
-    chapters/07_request_to_the_focus_group
-    chapters/08_limits_and_what_is_not_claimed
+   chapters/02_what_4_5_asks_and_what_this_note_answers
+   chapters/03_the_six_dimensions
+   chapters/04_result_on_the_fixed_sample
+   chapters/05_what_follows_for_4_5
+   chapters/06_mapping_to_the_terms_of_reference
+   chapters/07_request_to_the_focus_group
+   chapters/08_limits_and_what_is_not_claimed
